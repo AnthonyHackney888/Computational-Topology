@@ -1,5 +1,5 @@
 # Computational-Topology
-
+Algorithmic topology, or computational topology, is a subfield of topology with an overlap with areas of computer science, in particular, computational geometry and computational complexity theory.
 ## Language and API Used
 [Python](https://www.python.org/) - Python was used as the main language to accomplish computational topology. <br />
 [matplotlib](https://matplotlib.org/) - Matplotlib was used for the graphing and mapping <br />
