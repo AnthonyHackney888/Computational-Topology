@@ -1,10 +1,10 @@
 # Computational-Topology
 
 ## Language and API Used
-[Python](https://www.python.org/) <br />
-[matplotlib](https://matplotlib.org/) <br />
-[scikit](https://scikit-learn.org/stable/) <br />
-[Kepler Mapper](https://kepler-mapper.scikit-tda.org/en/latest/) <br />
+[Python](https://www.python.org/) - Python was used as the main language to accomplish computational topology. <br />
+[matplotlib](https://matplotlib.org/) - Matplotlib was used for the graphing and mapping <br />
+[scikit](https://scikit-learn.org/stable/) - Scikit was used to acomplish the statistics portion of the computational topology <br />
+[Kepler Mapper](https://kepler-mapper.scikit-tda.org/en/latest/) - Kepler Mapper was used to create an HTML file for the data visualization <br />
 
 ## Description
 The main purpose of this repo is to experiment and learn how to create Computational Topology programs with the use of APIs such as scikit, matplotlib, and Kepler Mapper. As well as to eventually branch into machine learning and topology using python.
